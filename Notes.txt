@@ -1,0 +1,57 @@
+A. LESSON PLAN
+==============
+1. Routing
+2. Templating / View
+3. Method
+4. Migration
+5. Model
+6. Controller
+7. CRUD
+
+
+B. ARTISAN COMMAND
+==============
+1. php artisan serve
+	- menjalankan project
+
+2. php artisan make:controller
+	- membuat controller baru
+
+3. php artisan make:model
+	- membuat model baru
+
+4. php artisan make:migration
+	- membuat migration baru
+
+5. php artisan migrate
+	- menjalankan migrasi database
+
+C. DIRECTORY
+==============
+1. Routing Directory	=> routes
+2. Templating Directory	=> resources->views
+3. Controllers		=> app->Http->Controllers
+4. Models		=> app->Models
+5. Migration		=> database->migrations
+
+D. EXTENSIONS
+==============
+1. Laravel Blade Formatter
+
+E. PENANDA
+==============
+1. HTML
+<!-- Komentar -->
+
+2. Laravel Blade
+{{-- Komentar --}}
+
+
+F. SHORTCUTS
+==============
+1. ctrl + ` (membuka terminal di vscode)
+
+G. TUTORIAL
+==============
+1. Mengubah pesan error validasi inputan menjadi bahasa indonesia
+	https://kursuswebprogramming.com/membuat-error-validasi-di-laravel-menjadi-bahasa-indonesia/

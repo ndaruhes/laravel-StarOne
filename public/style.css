@@ -1,0 +1,43 @@
+/* BANNER */
+.banner {
+    padding: 50px;
+    border-radius: 10px;
+    color: white;
+}
+
+.banner>h1 {
+    font-size: 45px;
+}
+
+.banner>p {
+    font-size: 20px;
+}
+
+
+/* MANAGEMENT */
+.management-wrapper {
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+/* GAME ITEM */
+.game-item {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.game-item>.title {
+    font-weight: bold;
+    display: block;
+}
+
+.game-item>.deskripsi {
+    display: block;
+    margin-top: 5px;
+}
+
+.game-item>.tahun_rilis {
+    display: block;
+    margin-top: 5px;
+}
